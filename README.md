@@ -87,7 +87,8 @@
 <h3 align="center">🛠 Favorite Tools</h3>
 <p align="center">
   <!-- Dev++ (represented by C++) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Dev++" width="55" height="55" style="margin: 0 20px;"/>
+   <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Dev-C%2B%2B_logo.png" alt="Dev-C++" width="55" height="55" style="margin: 0 20px;"/>
+
   
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin: 0 20px;"/>
@@ -102,7 +103,8 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="55" height="55" style="margin: 0 20px;"/>
   
   <!-- Photoshop -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="55" height="55" style="margin: 0 20px;"/>
+<img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" alt="Photoshop" width="55" height="55"/>
+
   
   <!-- Pinterest -->
   <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="Pinterest" width="55" height="55" style="margin: 0 20px;"/>
