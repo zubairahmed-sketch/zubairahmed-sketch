@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h3 align="center">👨‍💻 About Me</h3>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">🔥 Highlights</h2>
+<h3 align="center">🔥 Highlights</h3>
 
 <br>
 
@@ -46,7 +46,7 @@
 
   ---
 
-<h2 align="center">Skills and Technologies:</h2><br>
+<h3 align="center">Skills and Technologies:</h3><br>
 <table align="center">
   <tr>
     <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><br><sub>Angular</sub></td>
@@ -84,12 +84,11 @@
 <br>
 
 ---
-<h3 align="center">🛠 Favorite Tools</h3>
+<h3 align="center">🛠 Tools I Use</h3><br>
 <p align="center">
   <!-- Dev++ (represented by C++) -->
-   <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Dev-C%2B%2B_logo.png" alt="Dev-C++" width="55" height="55" style="margin: 0 20px;"/>
+   <img src="https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/dev_cplus_logo.jpg" alt="Dev-C++" width="55" height="55" style="margin: 0 20px;"/>
 
-  
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin: 0 20px;"/>
   
@@ -103,7 +102,7 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="55" height="55" style="margin: 0 20px;"/>
   
   <!-- Photoshop -->
-<img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" alt="Photoshop" width="55" height="55"/>
+<img src="https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/photoshop_logo.png" alt="Photoshop" width="55" height="55"/>
 
   
   <!-- Pinterest -->
@@ -120,7 +119,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairahmed-sketch&" alt="zubairahmed-sketch" /></p>
 
 ---
-<h2 align="center">🌐 Let's Connect!</h2>
+<h3 align="center">🌐 Let's Connect!</h3><br>
 <p align="center">
 <a href="https://codepen.io/zubair-ahmed-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zubair-ahmed-the-styleful" height="30" width="40" /></a>
 <a href="https://dev.to/zubair_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubair_ahmed" height="30" width="40" /></a>
@@ -130,4 +129,24 @@
 <a href="https://instagram.com/user._.zubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user._.zubi" height="30" width="40" /></a>
 </p>
 
+---
 
+<div align="center">
+    <a href="mailto:za0183625@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Mail%20Me-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail Me">
+    </a>
+    <a href="https://my-portfolio-green-pi-92.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Portfolio-%23DB4437?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit Portfolio">
+    </a>
+    <br/>
+    <img src="https://img.shields.io/badge/Profile%20views-2756-brightgreen" alt="Profile views">
+</div>
+
+<!-- Thanks Message -->
+<div align="center">
+    <h3>Thanks for visiting! 👋</h3>
+    <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
+    <a href="https://github.com/zubairahmed-sketch?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/Explore%20My%20Repositories-%2304AA6D?style=flat-square&logo=github&logoColor=white" alt="Explore Repositories">
+    </a>
+</div>
