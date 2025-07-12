@@ -45,22 +45,8 @@
 - ⚡ Fun Fact: **🧘‍♂️ I refactor code to achieve inner peace**
 
   ---
-  
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/zubair-ahmed-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zubair-ahmed-the-styleful" height="30" width="40" /></a>
-<a href="https://dev.to/zubair_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubair_ahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zubair-ahmed-3285a8285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubair-ahmed-3285a8285" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/31021243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31021243" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/zubairahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zubairahmed17" height="30" width="40" /></a>
-<a href="https://instagram.com/user._.zubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user._.zubi" height="30" width="40" /></a>
-</p>
-<br>
-
----
-
-<h3 align="center">Skills and Technologies:</h3><br>
+<h2 align="center">Skills and Technologies:</h2><br>
 <table align="center">
   <tr>
     <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><br><sub>Angular</sub></td>
@@ -97,6 +83,31 @@
 </table>
 <br>
 
+---
+<h3 align="center">🛠 Favorite Tools</h3>
+<p align="center">
+  <!-- Dev++ (represented by C++) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Dev++" width="55" height="55" style="margin: 0 20px;"/>
+  
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin: 0 20px;"/>
+  
+  <!-- Jupyter -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55" style="margin: 0 20px;"/>
+  
+  <!-- Canva -->
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="55" height="55" style="margin: 0 20px;"/>
+  
+  <!-- Adobe Illustrator -->
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="55" height="55" style="margin: 0 20px;"/>
+  
+  <!-- Photoshop -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="55" height="55" style="margin: 0 20px;"/>
+  
+  <!-- Pinterest -->
+  <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="Pinterest" width="55" height="55" style="margin: 0 20px;"/>
+</p>
+
 
 ---
 
@@ -105,5 +116,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairahmed-sketch&show_icons=true&locale=en" alt="zubairahmed-sketch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairahmed-sketch&" alt="zubairahmed-sketch" /></p>
+
+---
+<h2 align="center">🌐 Let's Connect!</h2>
+<p align="center">
+<a href="https://codepen.io/zubair-ahmed-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zubair-ahmed-the-styleful" height="30" width="40" /></a>
+<a href="https://dev.to/zubair_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubair_ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zubair-ahmed-3285a8285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubair-ahmed-3285a8285" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/31021243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31021243" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/zubairahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zubairahmed17" height="30" width="40" /></a>
+<a href="https://instagram.com/user._.zubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user._.zubi" height="30" width="40" /></a>
+</p>
 
 
