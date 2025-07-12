@@ -56,6 +56,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/zubairahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zubairahmed17" height="30" width="40" /></a>
 <a href="https://instagram.com/user._.zubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user._.zubi" height="30" width="40" /></a>
 </p>
+<br>
 
 ---
 
@@ -72,7 +73,7 @@
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><br><sub>Django</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><br><sub>Docker</sub></td>
-    <td align="center"><img src="https://static.cdnlogo.com/logos/e/93/express.svg" alt="express" width="40" height="40"/><br><sub>Express</sub></td>
+    <td align="center"><img src="https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/expressjs_logo.png" alt="express" width="40" height="40"/><br><sub>Express</sub></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br><sub>Git</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br><sub>HTML5</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><br><sub>Java</sub></td>
@@ -81,7 +82,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br><sub>JavaScript</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><br><sub>MongoDB</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br><sub>MySQL</sub></td>
-    <td align="center"><img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="40" height="40"/><br><sub>Next.js</sub></td>
+    <td align="center"><img src="https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/Nextjs_logo.png" alt="nextjs" width="40" height="40"/><br><sub>Next.js</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br><sub>Node.js</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><br><sub>PHP</sub></td>
   </tr>
@@ -94,6 +95,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/><br><sub>Vue.js</sub></td>
   </tr>
 </table>
+<br>
+
 
 ---
 
