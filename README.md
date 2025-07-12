@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/Github_banner_gif.gif)
 <h1 align="center">Hi 👋, I'm Zubair Ahmed</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
