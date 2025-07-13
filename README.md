@@ -144,7 +144,7 @@
 
 <!-- Thanks Message -->
 <div align="center">
-    <h3>Thanks for visiting! 👋</h3>
+    <h3>Thanks for visiting! <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/></h3>
     <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
     <a href="https://github.com/zubairahmed-sketch?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/Explore%20My%20Repositories-%2304AA6D?style=flat-square&logo=github&logoColor=white" alt="Explore Repositories">
