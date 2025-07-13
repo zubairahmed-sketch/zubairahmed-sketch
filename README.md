@@ -38,7 +38,7 @@
 
 - 👯 Open to Collaborate: **Innovative Web Development Projects 🌐**
 
-- 💬 Ask me about: **Web Technologies, UI/UX Design, Frontend Frameworks 🛠️**
+- 💬 Ask me about: **Web Technologies,UI/UX Design,Frontend Frameworks 🛠️**
 
 - 📫 How to reach me: **za0183625@gmail.com**
 
