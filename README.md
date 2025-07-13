@@ -36,9 +36,9 @@
 
 - 🌱 I’m currently learning: **Angular,Nextjs,TS & smart systems (ML) etc.**
 
-- 👯 Open to Collaborate: **Innovative Web Development Projects 🌐**
+- 👯 Open to Collaborate: **Innovative Web Development Projects🌐**
 
-- 💬 Ask me about: **Web Technologies,UI/UX Design,Frontend Frameworks 🛠️**
+- 💬 Ask me about: **Web Technologies,UI/UX Design,Frontend Frameworks🛠️**
 
 - 📫 How to reach me: **za0183625@gmail.com**
 
