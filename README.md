@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer%7C+AI+Automation.+Agentic+AI.+Machine+Learning.;UI%2FUX+Designer%7C+Clean+Code+Advocate;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer%7C+AI+Automation.+Machine +Learning.;UI%2FUX+Designer%7C+Clean+Code+Advocate;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 
