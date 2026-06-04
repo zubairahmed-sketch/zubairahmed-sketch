@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;ML+Enthusiast%7C+Code.+Learn.+Predict.;UI%2FUX+Designer%7C+Clean+Code+Advocate;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer%7C+AI+Automation.+Agentic+AI.+Machine+Learning.;UI%2FUX+Designer%7C+Clean+Code+Advocate;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 
@@ -16,9 +16,7 @@
 <br>
 
 <p align="center">
-  I'm a Full-Stack Web Developer passionate about building clean, responsive, and user-friendly web apps.<br>
-  Curious about Machine Learning and always exploring ways to blend creativity with code.<br>
-  I love solving real-world problems and turning ideas into interactive digital experiences.
+I'm a Full Stack Developer & AI Automation Specialist focused on building modern websites, web applications, mobile apps, and AI-powered        solutions. I specialize in React.js, Next.js, Node.js, MySQL, Firebase, Kotlin, REST APIs, and AI integration. I work closely with clients to deliver clean, scalable, and high-performance solutions with clear communication and on-time delivery. From custom websites to automation and mobile apps, I help businesses turn ideas into reliable digital products.
 </p>
 
 
@@ -32,13 +30,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairahmed-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="zubairahmed-sketch" /> </p>
 
-- 🔭 Currently building: **Clean UI projects & smart web apps** 
+- 🔭 Currently building: **Clean UI Web/Mobile Apps & AI Integration** 
 
-- 🌱 I’m currently learning: **Angular,Nextjs,TS & smart systems (ML) etc.**
+- 🌱 I’m currently learning: **Agentic AI, Model fine tuning, AI Automation & smart systems (ML) etc.**
 
-- 👯 Open to Collaborate: **Innovative Web Development Projects🌐**
+- 👯 Open to Collaborate: **Innovative Web/Mobile Apps Development Projects🌐**
 
-- 💬 Ask me about: **Web Technologies,UI/UX Design,Frontend Frameworks🛠️**
+- 💬 Ask me about: **Web/Mobile Technologies,Automation Workflows,ML Algorithms🛠️**
 
 - 📫 How to reach me: **za0183625@gmail.com**
 
@@ -135,7 +133,7 @@
     <a href="mailto:za0183625@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Mail%20Me-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail Me">
     </a>
-    <a href="https://my-portfolio-green-pi-92.vercel.app/" target="_blank">
+    <a href="https://my-portfolio-website-eta-beryl.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-%23DB4437?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit Portfolio">
     </a>
     <br/>
