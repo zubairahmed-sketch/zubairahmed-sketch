@@ -1,4 +1,4 @@
-![logo](https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/Github_banner_gif.gif)
+![logo](https://github.com/zubairahmed-sketch/zubairahmed-sketch/blob/main/Banner.png)
 <h1 align="center">
   Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Zubair Ahmed
 </h1>
